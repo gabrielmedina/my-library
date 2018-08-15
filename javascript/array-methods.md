@@ -36,13 +36,12 @@ const beers = [
     price: 7.0,
     quantity: 139
   }
-];
+]
 ```
 
 ### // Array.filter()
 
 ```javascript
-// Array.filter()
 // retorna todos os itens que satisfação a função de teste provida
 
 beers.filter((beer) => {
